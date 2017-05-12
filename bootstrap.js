@@ -1,5 +1,6 @@
 // Insert clever comment
 
+
 // think of a 'class' as a template
 class Post {
 
@@ -48,16 +49,16 @@ const app = new Vue({
 				'Chocolate Gelato Recipe',
 				'http://theitaliandishblog.com/imported-20090913150324/2011/2/8/chocolate-gelato.html',
 				'The Italian Dish',
-				'img-200.jpg', // this is a local image in the same folder as the js script
-				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi. '
+				'http://theheritagecook.com/wp-content/uploads/2012/06/chocolate-sorbet-gelato2.jpg', // this is a local image in the same folder as the js script
+				'This is the perfect treat for summer with the combination of cold and rich chocolate'
 				),
 
 			new Post(
-				'This Post: Crazy Fredrick',
-				'https://google.com',
-				'Bob Author',
-				'https://unsplash.it/200',
-				'Crazy Fredrick bought many very exquisite opal jewels.'
+				'Lemon Meringue pie',
+				'https://www.bettycrocker.com/recipes/classic-lemon-meringue-pie/8f991b88-55b0-4740-b12c-251958d663a6',
+				'Betty Crocker',
+				'http://cdn2.tmbi.com/TOH/Images/Photos/37/1200x1200/exps23527_HC1154010B03_08_1bC_RMS.jpg',
+				'Lemin Meringe pie as it is known today, is a 19th-century product. The earliest recorded recipe was attributed to Alexander Frehse, a Swiss baker from Romandie.'
 				),
 
 			new Post(
@@ -96,6 +97,5 @@ const app = new Vue({
 	}
 
 });
-
 
 

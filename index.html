@@ -4,7 +4,7 @@
 
 		<!-- Page Title: find this on the page tab -->
 		<title>
-		Bootstrap Vue2 App
+		Recipes
 		</title>
 
 		<meta charset="utf-8">
@@ -17,8 +17,8 @@
 		<!-- Local styles. you can of course add a .css file here for cleaner interface -->
 		<style type="text/css">
 
-			.isRed {
-				color:red;
+			.isBlue {
+				color:blue;
 			}
 
 		</style>
@@ -31,11 +31,11 @@
 
 
 
-		<h1>Bootstrap Version. Woop woop</h1>
+		<h1>Delicious Desert Recipes</h1>
 
 			<a href="../index.html">
 				<button class="btn btn-default">
-					<span class="fa fa-fw fa-chevron-left"></span> Back Home
+					<span class="fa fa-fw fa-chevron-left"></span> Home
 				</button>
 			</a>
 
@@ -68,7 +68,7 @@
 					</div>
 					<div class="panel-body">
 
-						<img class="img-circle" :src="post.img"> <!-- this is bound to the img slot -->
+						<img class="img-square" :src="post.img"> <!-- this is bound to the img slot -->
 						<h4><em>by {{post.author}}</em></h4>
 
 						<p>{{post.body}}</p> <!-- this is bound to the body slot -->
