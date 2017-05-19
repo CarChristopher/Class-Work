@@ -57,24 +57,40 @@ const app = new Vue({
 				'Lemon Meringue pie',
 				'https://www.bettycrocker.com/recipes/classic-lemon-meringue-pie/8f991b88-55b0-4740-b12c-251958d663a6',
 				'Betty Crocker',
-				'http://cdn2.tmbi.com/TOH/Images/Photos/37/1200x1200/exps23527_HC1154010B03_08_1bC_RMS.jpg',
+				'https://media.fromthegrapevine.com/assets/images/2016/3/lemon-meringue-pie-lead.jpg.839x0_q71_crop-scale.jpg',
 				'Lemin Meringe pie as it is known today, is a 19th-century product. The earliest recorded recipe was attributed to Alexander Frehse, a Swiss baker from Romandie.'
 				),
 
 			new Post(
-				'Another Post: promptly judged',
-				'https://vuejs.org',
-				'Jane Author',
-				'https://unsplash.it/200',
-				'We promptly judged antique ivory buckles for the next prize.'
+				'Creme Brulee',
+				'http://allrecipes.com/recipe/19165/creme-brulee/',
+				'All Recipes',
+				'http://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/26/1/EA0914_creme-brulee_s4x3.jpg.rend.hgtvcom.616.462.jpeg',
+				'exquisitely rich and elegant dessert.'
 				),
 
 			new Post(
-				'Last Post: Jaded zombies',
-				'https://google.com',
-				'Anptoght Author',
-				'#',
-				'Jaded zombies acted quaintly but kept driving their oxen forward.'
+				'Mexican Hot Chocolate',
+				'http://www.foodnetwork.com/recipes/mexican-hot-chocolate-recipe1-2013212',
+				'Sandra Lee',
+				'https://static.tumblr.com/4fc0e083133726f485cbe7f5b3591b41/ceti1xq/qm5oiydbn/tumblr_static_tumblr_static_54f59w580hc88g00w48okwwsw_640.jpg',
+				'Warm, cozy, chocolate-y heaven that fills you up with this comforting feeling that washes all the tiredness away.'
+				),
+				
+			new Post(
+				'Tiramisu',
+				'http://allrecipes.com/recipe/21412/tiramisu-ii/',
+				'Christine',
+				'http://25.media.tumblr.com/tumblr_m6pnxfRts71ra4ikyo1_500.jpg',
+				'Mascarpone custard layered with whipped cream and rum and coffee soaked ladyfingers.'
+				),
+				
+			new Post(
+				'Doughnuts',
+				'https://cooking.nytimes.com/recipes/1017060-doughnuts',
+				'Mark Bittman',
+				'https://s-media-cache-ak0.pinimg.com/736x/80/6f/5e/806f5ea21cf26bd0cbec8072b7e75bbe.jpg',
+				'doughnuts, tasty no matter what the occasion.'
 				)
 		]
 	},
