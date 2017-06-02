@@ -41,7 +41,7 @@ const app = new Vue({
 				'Brownie Recipe', 		// this is the TITLE place in the class
 				'http://www.marthastewart.com/1502268/brownie-recipes',	// this is the LINK place in the class
 				'Martha Stewart',			// this is the AUTHOR place in the class
-				'http://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/2/18/1/FNK_Brownie-Guide-Classic-Brownies_s4x3.jpg.rend.hgtvcom.616.462.jpeg',	// this is the IMAGE place in the class
+				'Brownies.jpg',
 				'Brownies that melt in your mouth.' // this is the BODY place in the class
 				),
 
@@ -49,7 +49,7 @@ const app = new Vue({
 				'Chocolate Gelato Recipe',
 				'http://theitaliandishblog.com/imported-20090913150324/2011/2/8/chocolate-gelato.html',
 				'The Italian Dish',
-				'http://theheritagecook.com/wp-content/uploads/2012/06/chocolate-sorbet-gelato2.jpg', // this is a local image in the same folder as the js script
+				'chocolate-sorbet-gelato2.jpg', // this is a local image in the same folder as the js script
 				'This is the perfect treat for summer with the combination of cold and rich chocolate'
 				),
 
@@ -57,7 +57,7 @@ const app = new Vue({
 				'Lemon Meringue pie',
 				'https://www.bettycrocker.com/recipes/classic-lemon-meringue-pie/8f991b88-55b0-4740-b12c-251958d663a6',
 				'Betty Crocker',
-				'https://media.fromthegrapevine.com/assets/images/2016/3/lemon-meringue-pie-lead.jpg.839x0_q71_crop-scale.jpg',
+				'lemon meringue pie.jpg',
 				'Lemin Meringe pie as it is known today, is a 19th-century product. The earliest recorded recipe was attributed to Alexander Frehse, a Swiss baker from Romandie.'
 				),
 
@@ -65,7 +65,7 @@ const app = new Vue({
 				'Creme Brulee',
 				'http://allrecipes.com/recipe/19165/creme-brulee/',
 				'All Recipes',
-				'http://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/26/1/EA0914_creme-brulee_s4x3.jpg.rend.hgtvcom.616.462.jpeg',
+				'creme-brulee.jpg',
 				'exquisitely rich and elegant dessert.'
 				),
 
