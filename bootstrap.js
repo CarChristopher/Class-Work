@@ -58,7 +58,7 @@ const app = new Vue({
 				'https://www.bettycrocker.com/recipes/classic-lemon-meringue-pie/8f991b88-55b0-4740-b12c-251958d663a6',
 				'Betty Crocker',
 				'lemon meringue pie.jpg',
-				'Lemin Meringe pie as it is known today, is a 19th-century product. The earliest recorded recipe was attributed to Alexander Frehse, a Swiss baker from Romandie.'
+				'Lemon Meringue pie as it is known today, is a 19th-century product. The earliest recorded recipe was attributed to Alexander Frehse, a Swiss baker from Romandie.'
 				),
 
 			new Post(
