@@ -73,7 +73,7 @@ const app = new Vue({
 				'Mexican Hot Chocolate',
 				'http://www.foodnetwork.com/recipes/mexican-hot-chocolate-recipe1-2013212',
 				'Sandra Lee',
-				'https://static.tumblr.com/4fc0e083133726f485cbe7f5b3591b41/ceti1xq/qm5oiydbn/tumblr_static_tumblr_static_54f59w580hc88g00w48okwwsw_640.jpg',
+				'Mexican hot chocolate.jpg',
 				'Warm, cozy, chocolate-y heaven that fills you up with this comforting feeling that washes all the tiredness away.'
 				),
 				
@@ -81,7 +81,7 @@ const app = new Vue({
 				'Tiramisu',
 				'http://allrecipes.com/recipe/21412/tiramisu-ii/',
 				'Christine',
-				'http://25.media.tumblr.com/tumblr_m6pnxfRts71ra4ikyo1_500.jpg',
+				'tiramisu.jpg',
 				'Mascarpone custard layered with whipped cream and rum and coffee soaked ladyfingers.'
 				),
 				
